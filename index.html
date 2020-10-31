@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BWG Signs</title>
+    <style type="text/css">
+    </style>
+    <script>
+      (function() {
+        const getPhotoData = () => {
+          // todo: edit headers to get beyond CORS errors
+          // see code example here: https://glitch.com/edit/#!/google-photos-album-demo2?path=server.js%3A17%3A3
+          fetch('https://photos.app.goo.gl/JcGzwL8D2iDvdVd66')
+            .then(response => {
+              return response.json();
+          }).then(photoData => {
+              console.error(photoData);
+          });
+        }
+        getPhotoData();
+      })();
+    </script>
+  </head>
+  <body>
+    <img src="https://lh3.googleusercontent.com/vV6yezMLskx73zVXF0X0h-mrxA5hUmUezTDjv6MP68yzyUkpkcTwbzDyd7DxWIL7922nG65c-4ekPI7VZopDvKwg9-VDFrwuefnXvybkJ2uwaCjOrz5SrXVOhF2h9T19Zglgr0Unr3o=w2400" alt="BWG Image Album">
+  </body>
+ </html>
