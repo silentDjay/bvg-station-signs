@@ -1,27 +1,68 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>BWG Signs</title>
-    <style type="text/css">
-    </style>
-    <script>
-      (function() {
-        const getPhotoData = () => {
-          // todo: edit headers to get beyond CORS errors
-          // see code example here: https://glitch.com/edit/#!/google-photos-album-demo2?path=server.js%3A17%3A3
-          fetch('https://photos.app.goo.gl/JcGzwL8D2iDvdVd66')
-            .then(response => {
-              return response.json();
-          }).then(photoData => {
-              console.error(photoData);
-          });
-        }
-        getPhotoData();
-      })();
-    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Berlin U-Bahn Station Photos (Bahnhofsschilder)</title>
+    <meta name="description" content="An interactive Berlin U-Bahn map with photos of station name signs." />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <img src="https://lh3.googleusercontent.com/vV6yezMLskx73zVXF0X0h-mrxA5hUmUezTDjv6MP68yzyUkpkcTwbzDyd7DxWIL7922nG65c-4ekPI7VZopDvKwg9-VDFrwuefnXvybkJ2uwaCjOrz5SrXVOhF2h9T19Zglgr0Unr3o=w2400" alt="BWG Image Album">
+    <div class="container">
+      <header class="topbar">
+        <h1>Berlin U-Bahn Station Signs (Bahnhofsschilder)</h1>
+        <div class="legend">
+          <span class="legend-item"><span class="legend-dot has-photos"></span>Photos</span>
+          <span class="legend-item"><span class="legend-dot"></span>No photos yet</span>
+          <label class="legend-item context-toggle">
+            <input type="checkbox" id="contextToggle" checked />
+            <span class="legend-ring"></span>Ringbahn
+            <span class="legend-water"></span>Spree &amp; canal
+          </label>
+          <span id="coverage" class="coverage"></span>
+        </div>
+      </header>
+
+      <main class="map-wrap">
+        <!-- The network is drawn here by src/map.js -->
+        <svg id="map" class="map" preserveAspectRatio="xMidYMid meet" aria-label="Berlin U-Bahn network map"></svg>
+
+        <div class="map-controls">
+          <button id="zoomIn" type="button" aria-label="Zoom in">+</button>
+          <button id="zoomOut" type="button" aria-label="Zoom out">&minus;</button>
+          <button id="zoomReset" type="button" aria-label="Show the whole map">&#x2922;</button>
+        </div>
+      </main>
+
+      <!-- Modal overlay -->
+      <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="stationName">
+        <div class="modal-content">
+          <button class="close-btn" type="button" aria-label="Close">&times;</button>
+
+          <div class="station-info">
+            <h2 id="stationName"></h2>
+            <div id="stationLines" class="station-lines"></div>
+          </div>
+
+          <div id="carousel" class="carousel hidden">
+            <div class="carousel-container">
+              <button class="carousel-btn prev" type="button" aria-label="Previous photo">&lsaquo;</button>
+              <img id="carouselImage" alt="" sizes="(max-width: 600px) 100vw, 600px" decoding="async" />
+              <button class="carousel-btn next" type="button" aria-label="Next photo">&rsaquo;</button>
+            </div>
+            <div class="photo-meta">
+              <time id="photoDate" class="photo-date"></time>
+              <div class="carousel-counter">
+                <span id="currentPhoto">1</span> / <span id="totalPhotos">0</span>
+              </div>
+            </div>
+          </div>
+
+          <div id="noPhotos" class="no-photos">No photos available for this station</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="src/main.js"></script>
   </body>
- </html>
+</html>

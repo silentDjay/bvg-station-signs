@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Trace helper</title>
+    <!--
+      Local helper to place stations in data/network.json.
+      It shows tools/berlin-map.png (not in git) under the current network.
+      Click anywhere to see the x/y position in network.json units.
+      Open it with `npm run dev`, then go to /tools/trace.html.
+    -->
+    <style>
+      body { margin: 0; font-family: sans-serif; }
+      #bar { position: fixed; top: 0; left: 0; right: 0; padding: 8px; background: #fff; border-bottom: 1px solid #ccc; z-index: 1; }
+      #bar code { font-size: 15px; background: #eee; padding: 2px 6px; }
+      svg { display: block; margin-top: 44px; width: 3000px; height: auto; }
+      .stop { fill: #fff; stroke: #000; stroke-width: 1.5; }
+      .stop:hover { fill: #e84e0f; }
+    </style>
+  </head>
+  <body>
+    <div id="bar">
+      Map opacity <input id="opacity" type="range" min="0" max="1" step="0.05" value="0.5" />
+      Last click: <code id="out">–</code>
+      Hover: <code id="hover">–</code>
+    </div>
+    <svg id="svg" viewBox="0 0 2000 1414">
+      <image id="bg" href="berlin-map.png" width="2000" height="1414" opacity="0.5" />
+      <g id="net"></g>
+    </svg>
+    <script type="module">
+      const NS = "http://www.w3.org/2000/svg";
+      const svg = document.getElementById("svg");
+      const net = document.getElementById("net");
+      const network = await (await fetch("../data/network.json")).json();
+      const at = (e) => (Array.isArray(e) ? { x: e[0], y: e[1] } : network.stations[e]);
+
+      for (const line of network.lines) {
+        const pl = document.createElementNS(NS, "polyline");
+        pl.setAttribute("points", line.path.map((e) => `${at(e).x},${at(e).y}`).join(" "));
+        pl.setAttribute("fill", "none");
+        pl.setAttribute("stroke", line.color);
+        pl.setAttribute("stroke-width", "2");
+        net.appendChild(pl);
+      }
+      for (const [id, s] of Object.entries(network.stations)) {
+        const c = document.createElementNS(NS, "circle");
+        Object.entries({ cx: s.x, cy: s.y, r: 3, class: "stop" }).forEach(([k, v]) => c.setAttribute(k, v));
+        c.addEventListener("mouseenter", () => (hover.textContent = `${id} (${s.x}, ${s.y})`));
+        net.appendChild(c);
+      }
+
+      document.getElementById("opacity").addEventListener("input", (e) => {
+        document.getElementById("bg").setAttribute("opacity", e.target.value);
+      });
+      svg.addEventListener("click", (e) => {
+        const pt = new DOMPoint(e.clientX, e.clientY).matrixTransform(svg.getScreenCTM().inverse());
+        const text = `"x": ${Math.round(pt.x)}, "y": ${Math.round(pt.y)}`;
+        document.getElementById("out").textContent = text;
+        navigator.clipboard?.writeText(text).catch(() => {});
+      });
+    </script>
+  </body>
+</html>

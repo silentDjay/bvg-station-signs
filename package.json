@@ -1,0 +1,15 @@
+{
+  "name": "bvg-station-signs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive Berlin U-Bahn map with my photos of station name signs",
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "photos": "node scripts/process-photos.mjs",
+    "validate": "node scripts/validate-network.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

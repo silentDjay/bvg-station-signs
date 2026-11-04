@@ -1,0 +1,1094 @@
+{
+  "afrikanische-strasse": [
+    {
+      "src": "photos/afrikanische-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/afrikanische-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-07-22T20:36:48+02:00"
+    }
+  ],
+  "alexanderplatz": [
+    {
+      "src": "photos/alexanderplatz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/alexanderplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-05-23T12:31:46+02:00"
+    },
+    {
+      "src": "photos/alexanderplatz-2.webp",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "photos/alexanderplatz-2-thumb.webp",
+      "thumbWidth": 300,
+      "takenAt": "2021-01-17T21:17:15+01:00"
+    }
+  ],
+  "alt-mariendorf": [
+    {
+      "src": "photos/alt-mariendorf-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/alt-mariendorf-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-07-24T17:47:23+02:00"
+    }
+  ],
+  "altstadt-spandau": [
+    {
+      "src": "photos/altstadt-spandau-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/altstadt-spandau-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-28T06:31:39+01:00"
+    }
+  ],
+  "amrumer-strasse": [
+    {
+      "src": "photos/amrumer-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/amrumer-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-06-17T21:51:57+02:00"
+    }
+  ],
+  "anton-wilhelm-amo-strasse": [
+    {
+      "src": "photos/anton-wilhelm-amo-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/anton-wilhelm-amo-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-05-23T12:45:57+02:00"
+    }
+  ],
+  "augsburger-strasse": [
+    {
+      "src": "photos/augsburger-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/augsburger-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-11-11T19:19:43+01:00"
+    }
+  ],
+  "bernauer-strasse": [
+    {
+      "src": "photos/bernauer-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/bernauer-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-09-26T23:12:39+02:00"
+    }
+  ],
+  "biesdorf-sued": [
+    {
+      "src": "photos/biesdorf-sued-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/biesdorf-sued-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-08-28T19:05:56+02:00"
+    }
+  ],
+  "birkenstrasse": [
+    {
+      "src": "photos/birkenstrasse-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/birkenstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-04-27T11:16:42+02:00"
+    }
+  ],
+  "blaschkoallee": [
+    {
+      "src": "photos/blaschkoallee-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/blaschkoallee-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-02-12T16:20:26+01:00"
+    }
+  ],
+  "blissestrasse": [
+    {
+      "src": "photos/blissestrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/blissestrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-07-29T22:23:23+02:00"
+    }
+  ],
+  "boddinstrasse": [
+    {
+      "src": "photos/boddinstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/boddinstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-11-24T22:42:55+01:00"
+    }
+  ],
+  "brandenburger-tor": [
+    {
+      "src": "photos/brandenburger-tor-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/brandenburger-tor-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-26T16:18:05+01:00"
+    },
+    {
+      "src": "photos/brandenburger-tor-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/brandenburger-tor-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-01-10T14:19:25+01:00"
+    }
+  ],
+  "buelowstrasse": [
+    {
+      "src": "photos/buelowstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/buelowstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-04-20T19:52:16+02:00"
+    }
+  ],
+  "bundestag": [
+    {
+      "src": "photos/bundestag-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/bundestag-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-06-27T17:15:40+02:00"
+    }
+  ],
+  "deutsche-oper": [
+    {
+      "src": "photos/deutsche-oper-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/deutsche-oper-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-11-18T01:25:17+01:00"
+    }
+  ],
+  "eberswalder-strasse": [
+    {
+      "src": "photos/eberswalder-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/eberswalder-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-06-17T20:47:25+02:00"
+    }
+  ],
+  "elsterwerdaer-platz": [
+    {
+      "src": "photos/elsterwerdaer-platz-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/elsterwerdaer-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-08-28T19:02:47+02:00"
+    }
+  ],
+  "ernst-reuter-platz": [
+    {
+      "src": "photos/ernst-reuter-platz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/ernst-reuter-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-05-14T15:59:47+02:00"
+    }
+  ],
+  "frankfurter-allee": [
+    {
+      "src": "photos/frankfurter-allee-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/frankfurter-allee-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-08-14T10:06:17+02:00"
+    }
+  ],
+  "frankfurter-tor": [
+    {
+      "src": "photos/frankfurter-tor-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/frankfurter-tor-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-09-24T18:37:50+02:00"
+    },
+    {
+      "src": "photos/frankfurter-tor-2.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/frankfurter-tor-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-05-13T21:36:59+02:00"
+    }
+  ],
+  "franz-neumann-platz": [
+    {
+      "src": "photos/franz-neumann-platz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/franz-neumann-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-06-12T23:29:04+02:00"
+    }
+  ],
+  "friedrichsfelde": [
+    {
+      "src": "photos/friedrichsfelde-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/friedrichsfelde-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-01-11T18:46:59+01:00"
+    }
+  ],
+  "friedrichstrasse": [
+    {
+      "src": "photos/friedrichstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/friedrichstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-22T17:12:28+01:00"
+    },
+    {
+      "src": "photos/friedrichstrasse-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/friedrichstrasse-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-30T15:40:15+01:00"
+    }
+  ],
+  "gesundbrunnen": [
+    {
+      "src": "photos/gesundbrunnen-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/gesundbrunnen-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-09-26T19:46:23+02:00"
+    }
+  ],
+  "gleisdreieck": [
+    {
+      "src": "photos/gleisdreieck-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/gleisdreieck-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-06-27T18:17:56+02:00"
+    }
+  ],
+  "hallesches-tor": [
+    {
+      "src": "photos/hallesches-tor-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hallesches-tor-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-30T15:53:10+01:00"
+    },
+    {
+      "src": "photos/hallesches-tor-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hallesches-tor-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-11-01T16:41:28+01:00"
+    }
+  ],
+  "hauptbahnhof": [
+    {
+      "src": "photos/hauptbahnhof-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hauptbahnhof-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-05-25T08:34:01+02:00"
+    },
+    {
+      "src": "photos/hauptbahnhof-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hauptbahnhof-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-02-06T19:13:39+01:00"
+    }
+  ],
+  "hausvogteiplatz": [
+    {
+      "src": "photos/hausvogteiplatz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hausvogteiplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-22T14:57:37+01:00"
+    },
+    {
+      "src": "photos/hausvogteiplatz-2.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/hausvogteiplatz-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-01-18T20:22:54+01:00"
+    }
+  ],
+  "heidelberger-platz": [
+    {
+      "src": "photos/heidelberger-platz-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/heidelberger-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-06-28T09:43:38+02:00"
+    }
+  ],
+  "heinrich-heine-strasse": [
+    {
+      "src": "photos/heinrich-heine-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/heinrich-heine-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-08-14T18:54:54+02:00"
+    }
+  ],
+  "hermannplatz": [
+    {
+      "src": "photos/hermannplatz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hermannplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-11-11T23:35:02+01:00"
+    },
+    {
+      "src": "photos/hermannplatz-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hermannplatz-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-03T00:14:01+01:00"
+    },
+    {
+      "src": "photos/hermannplatz-3.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hermannplatz-3-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-02-01T16:08:52+01:00"
+    }
+  ],
+  "hermannstrasse": [
+    {
+      "src": "photos/hermannstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/hermannstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-07-25T16:16:20+02:00"
+    }
+  ],
+  "hohenzollernplatz": [
+    {
+      "src": "photos/hohenzollernplatz-1.webp",
+      "width": 1600,
+      "height": 900,
+      "thumb": "photos/hohenzollernplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2026-09-06T19:11:23+02:00"
+    }
+  ],
+  "holzhauser-strasse": [
+    {
+      "src": "photos/holzhauser-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/holzhauser-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-02-12T17:30:33+01:00"
+    }
+  ],
+  "innsbrucker-platz": [
+    {
+      "src": "photos/innsbrucker-platz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/innsbrucker-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-08-21T18:33:29+02:00"
+    }
+  ],
+  "jakob-kaiser-platz": [
+    {
+      "src": "photos/jakob-kaiser-platz-1.webp",
+      "width": 1600,
+      "height": 900,
+      "thumb": "photos/jakob-kaiser-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-06-30T13:31:29+02:00"
+    }
+  ],
+  "jannowitzbruecke": [
+    {
+      "src": "photos/jannowitzbruecke-1.webp",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "photos/jannowitzbruecke-1-thumb.webp",
+      "thumbWidth": 300,
+      "takenAt": "2019-08-08T22:37:53+02:00"
+    },
+    {
+      "src": "photos/jannowitzbruecke-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/jannowitzbruecke-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-08-17T22:06:50+02:00"
+    }
+  ],
+  "johannisthaler-chaussee": [
+    {
+      "src": "photos/johannisthaler-chaussee-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/johannisthaler-chaussee-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-03-08T17:17:07+01:00"
+    }
+  ],
+  "jungfernheide": [
+    {
+      "src": "photos/jungfernheide-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/jungfernheide-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-07-15T09:13:30+02:00"
+    }
+  ],
+  "karl-marx-strasse": [
+    {
+      "src": "photos/karl-marx-strasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/karl-marx-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-11-10T22:44:20+01:00"
+    }
+  ],
+  "kleistpark": [
+    {
+      "src": "photos/kleistpark-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/kleistpark-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-02-06T14:12:12+01:00"
+    }
+  ],
+  "klosterstrasse": [
+    {
+      "src": "photos/klosterstrasse-1.webp",
+      "width": 1600,
+      "height": 900,
+      "thumb": "photos/klosterstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2026-09-08T11:43:15+02:00"
+    },
+    {
+      "src": "photos/klosterstrasse-3.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/klosterstrasse-3-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-08-08T22:47:57+02:00"
+    },
+    {
+      "src": "photos/klosterstrasse-4.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/klosterstrasse-4-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-08-08T22:49:01+02:00"
+    }
+  ],
+  "kottbusser-tor": [
+    {
+      "src": "photos/kottbusser-tor-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/kottbusser-tor-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-09-26T23:00:05+02:00"
+    },
+    {
+      "src": "photos/kottbusser-tor-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/kottbusser-tor-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-06-04T17:28:52+02:00"
+    }
+  ],
+  "kurfuerstendamm": [
+    {
+      "src": "photos/kurfuerstendamm-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/kurfuerstendamm-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-03-13T14:22:09+01:00"
+    },
+    {
+      "src": "photos/kurfuerstendamm-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/kurfuerstendamm-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-11-10T19:44:44+01:00"
+    }
+  ],
+  "lipschitzallee": [
+    {
+      "src": "photos/lipschitzallee-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/lipschitzallee-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-03-21T13:49:02+01:00"
+    }
+  ],
+  "maerkisches-museum": [
+    {
+      "src": "photos/maerkisches-museum-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/maerkisches-museum-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-07-22T14:25:56+02:00"
+    }
+  ],
+  "magdalenenstrasse": [
+    {
+      "src": "photos/magdalenenstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/magdalenenstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-06-13T16:11:54+02:00"
+    },
+    {
+      "src": "photos/magdalenenstrasse-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/magdalenenstrasse-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-02-05T17:33:42+01:00"
+    }
+  ],
+  "mehringdamm": [
+    {
+      "src": "photos/mehringdamm-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/mehringdamm-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-02-19T19:08:42+01:00"
+    },
+    {
+      "src": "photos/mehringdamm-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/mehringdamm-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-03-28T21:04:34+02:00"
+    }
+  ],
+  "moritzplatz": [
+    {
+      "src": "photos/moritzplatz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/moritzplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-09-26T20:06:14+02:00"
+    }
+  ],
+  "museumsinsel": [
+    {
+      "src": "photos/museumsinsel-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/museumsinsel-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-08-06T11:57:03+02:00"
+    },
+    {
+      "src": "photos/museumsinsel-2.webp",
+      "width": 1200,
+      "height": 1600,
+      "thumb": "photos/museumsinsel-2-thumb.webp",
+      "thumbWidth": 300,
+      "takenAt": "2021-10-04T18:01:23+02:00"
+    }
+  ],
+  "naturkundemuseum": [
+    {
+      "src": "photos/naturkundemuseum-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/naturkundemuseum-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-11-12T20:19:14+01:00"
+    }
+  ],
+  "neukoelln": [
+    {
+      "src": "photos/neukoelln-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/neukoelln-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-02-06T14:29:31+01:00"
+    }
+  ],
+  "nollendorfplatz": [
+    {
+      "src": "photos/nollendorfplatz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/nollendorfplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-08-21T18:47:21+02:00"
+    },
+    {
+      "src": "photos/nollendorfplatz-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/nollendorfplatz-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-12-12T23:29:47+01:00"
+    }
+  ],
+  "oranienburger-tor": [
+    {
+      "src": "photos/oranienburger-tor-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/oranienburger-tor-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-10-04T19:02:19+02:00"
+    }
+  ],
+  "oskar-helene-heim": [
+    {
+      "src": "photos/oskar-helene-heim-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/oskar-helene-heim-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-06-28T12:05:25+02:00"
+    }
+  ],
+  "pankow": [
+    {
+      "src": "photos/pankow-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/pankow-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-06-06T17:50:58+02:00"
+    }
+  ],
+  "paradestrasse": [
+    {
+      "src": "photos/paradestrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/paradestrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-05-23T15:22:25+02:00"
+    }
+  ],
+  "platz-der-luftbruecke": [
+    {
+      "src": "photos/platz-der-luftbruecke-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/platz-der-luftbruecke-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-02-14T23:45:11+01:00"
+    }
+  ],
+  "potsdamer-platz": [
+    {
+      "src": "photos/potsdamer-platz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/potsdamer-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-21T21:51:00+01:00"
+    },
+    {
+      "src": "photos/potsdamer-platz-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/potsdamer-platz-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-22T19:40:34+01:00"
+    }
+  ],
+  "rathaus-neukoelln": [
+    {
+      "src": "photos/rathaus-neukoelln-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/rathaus-neukoelln-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-03-16T17:45:45+01:00"
+    }
+  ],
+  "rathaus-spandau": [
+    {
+      "src": "photos/rathaus-spandau-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/rathaus-spandau-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-12-28T06:17:05+01:00"
+    }
+  ],
+  "reinickendorfer-strasse": [
+    {
+      "src": "photos/reinickendorfer-strasse-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/reinickendorfer-strasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-02-17T14:25:03+01:00"
+    }
+  ],
+  "rosa-luxemburg-platz": [
+    {
+      "src": "photos/rosa-luxemburg-platz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/rosa-luxemburg-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-01-17T23:16:51+01:00"
+    },
+    {
+      "src": "photos/rosa-luxemburg-platz-2.webp",
+      "width": 1600,
+      "height": 900,
+      "thumb": "photos/rosa-luxemburg-platz-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2026-09-07T18:28:25+02:00"
+    }
+  ],
+  "rosenthaler-platz": [
+    {
+      "src": "photos/rosenthaler-platz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/rosenthaler-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-09-10T08:51:37+02:00"
+    }
+  ],
+  "rotes-rathaus": [
+    {
+      "src": "photos/rotes-rathaus-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/rotes-rathaus-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-03-07T11:41:22+01:00"
+    },
+    {
+      "src": "photos/rotes-rathaus-2.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/rotes-rathaus-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-12-21T20:46:26+01:00"
+    }
+  ],
+  "rudow": [
+    {
+      "src": "photos/rudow-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/rudow-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-02-01T15:49:21+01:00"
+    }
+  ],
+  "samariterstrasse": [
+    {
+      "src": "photos/samariterstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/samariterstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-01-11T12:59:59+01:00"
+    }
+  ],
+  "schillingstrasse": [
+    {
+      "src": "photos/schillingstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/schillingstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-12-17T20:08:04+01:00"
+    }
+  ],
+  "schlesisches-tor": [
+    {
+      "src": "photos/schlesisches-tor-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/schlesisches-tor-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-12-15T16:48:15+01:00"
+    }
+  ],
+  "schlossstrasse": [
+    {
+      "src": "photos/schlossstrasse-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/schlossstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-02-04T12:19:44+01:00"
+    }
+  ],
+  "schoenleinstrasse": [
+    {
+      "src": "photos/schoenleinstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/schoenleinstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-06-11T20:21:39+02:00"
+    }
+  ],
+  "seestrasse": [
+    {
+      "src": "photos/seestrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/seestrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-11-10T17:02:29+01:00"
+    }
+  ],
+  "senefelderplatz": [
+    {
+      "src": "photos/senefelderplatz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/senefelderplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-06-28T22:35:40+02:00"
+    }
+  ],
+  "spittelmarkt": [
+    {
+      "src": "photos/spittelmarkt-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/spittelmarkt-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-05-12T21:41:04+02:00"
+    }
+  ],
+  "stadtmitte": [
+    {
+      "src": "photos/stadtmitte-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/stadtmitte-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-11-12T23:46:04+01:00"
+    },
+    {
+      "src": "photos/stadtmitte-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/stadtmitte-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-02-19T23:04:02+01:00"
+    }
+  ],
+  "strausberger-platz": [
+    {
+      "src": "photos/strausberger-platz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/strausberger-platz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-01-29T22:06:30+01:00"
+    }
+  ],
+  "suedstern": [
+    {
+      "src": "photos/suedstern-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/suedstern-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-01-17T19:08:03+01:00"
+    },
+    {
+      "src": "photos/suedstern-2.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/suedstern-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-11-16T17:54:45+01:00"
+    }
+  ],
+  "tierpark": [
+    {
+      "src": "photos/tierpark-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/tierpark-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2024-05-11T19:14:33+02:00"
+    }
+  ],
+  "turmstrasse": [
+    {
+      "src": "photos/turmstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/turmstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-01-19T23:55:11+01:00"
+    }
+  ],
+  "voltastrasse": [
+    {
+      "src": "photos/voltastrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/voltastrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-10-26T19:28:03+02:00"
+    }
+  ],
+  "weberwiese": [
+    {
+      "src": "photos/weberwiese-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/weberwiese-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-09-10T20:05:38+02:00"
+    }
+  ],
+  "weinmeisterstrasse": [
+    {
+      "src": "photos/weinmeisterstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/weinmeisterstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2021-10-30T20:34:53+02:00"
+    }
+  ],
+  "westhafen": [
+    {
+      "src": "photos/westhafen-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/westhafen-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-01-19T23:58:58+01:00"
+    },
+    {
+      "src": "photos/westhafen-2.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/westhafen-2-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2020-12-12T13:38:57+01:00"
+    }
+  ],
+  "wittenbergplatz": [
+    {
+      "src": "photos/wittenbergplatz-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/wittenbergplatz-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2023-11-04T20:22:36+01:00"
+    }
+  ],
+  "wuhletal": [
+    {
+      "src": "photos/wuhletal-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/wuhletal-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-08-28T18:59:47+02:00"
+    }
+  ],
+  "yorckstrasse": [
+    {
+      "src": "photos/yorckstrasse-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/yorckstrasse-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2019-11-09T16:07:26+01:00"
+    }
+  ],
+  "zitadelle": [
+    {
+      "src": "photos/zitadelle-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "thumb": "photos/zitadelle-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2022-02-06T15:04:56+01:00"
+    }
+  ],
+  "zoologischer-garten": [
+    {
+      "src": "photos/zoologischer-garten-1.webp",
+      "width": 1600,
+      "height": 1205,
+      "thumb": "photos/zoologischer-garten-1-thumb.webp",
+      "thumbWidth": 400,
+      "takenAt": "2025-02-23T17:46:55+01:00"
+    }
+  ]
+}
